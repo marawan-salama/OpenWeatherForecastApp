@@ -1,7 +1,7 @@
 //Marawan Salama
 
 //API key
-const apiKey = 'b7668dca944cd00aae4b545051b5897d';
+const apiKey = '#####################';
 
 // This function builds the URL for the API call based on user input
 function buildApiUrl(locationType, locationInput) {
